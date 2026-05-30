@@ -32,4 +32,6 @@ npm install
 
 npx hardhat compile
 
-npx hardhat run scripts/deploy.ts --network monadTestnet
+npx hardhat 
+
+run scripts/deploy.ts --network monadTestnet
